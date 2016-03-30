@@ -1,6 +1,6 @@
 ## Welcome
 
-Let's add some text. This is a simple markdown file that provides some copy for easy collaborating via Git and GitHub.
+Let's force a rebase? Let's add some text. This is a simple markdown file that provides some copy for easy collaborating via Git and GitHub.
 
 - Bulleted list
 - Another one
