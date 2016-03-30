@@ -16,4 +16,6 @@ Anything you like. It's a virutal canvas of possibilities. I really am just typi
 2. Hmm. What should I have for lunch.
   - Item here
   - I'm all out of pizza
-3. Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo
+3. Buffalo buffalo Buffalo buffalo buffalo buffalo Buffalo buffalo.
+4. Whatever
+5. Something else.
